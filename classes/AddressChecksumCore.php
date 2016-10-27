@@ -31,7 +31,7 @@ class AddressChecksumCore implements ChecksumInterface
 {
     const SEPARATOR = '_';
 
-    /**
+    /**567
      * Generate a checksum
      *
      * @param Address $address
